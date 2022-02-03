@@ -1,8 +1,9 @@
 # datablob studio
 
 ### products
-find us on the [Unity Asset Store](#) or [itch.io](#)
-or buy some sweet music from our sister brand [PATCHFURY on Gumroad](https://patchfury.gumroad.com/)
+- find us on the [Unity Asset Store](https://assetstore.unity.com/publishers/61705)
+- or [itch.io](#)
+- or buy some sweet music from our sister brand [PATCHFURY on Gumroad](https://patchfury.gumroad.com/)
 
 ### channels
 - [YouTube](https://www.youtube.com/channel/UCsvzDUuzNBtcmP97msnoUKg)
